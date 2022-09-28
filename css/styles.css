@@ -1,0 +1,154 @@
+body{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.skills h2{
+  margin-top: 50px;
+}
+
+.top-container{
+  padding-top: 100px;
+  position: relative;
+  background-color: #E4F9F5;
+}
+
+.top-container h2{
+  margin-top: -30px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.subheading{
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 40px auto 100px auto;
+  text-align: left;
+  
+}
+
+.inner-skills p{
+  line-height: 2;
+}
+
+.com-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile img{
+  margin-top: 50px;
+}
+
+.profile p{
+  color:#40514E;
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.contact-me{
+  margin-bottom: 70px
+}
+
+.contact-me h2{
+  margin-top: 50px;
+}
+
+.contact-me h3{
+  margin-top: 30px;
+}
+
+.contact-me p{
+
+  width: 40%;
+  margin: 30px auto;
+  margin-bottom: 50px;
+}
+
+.button-class{
+  margin-top: 10px;
+  padding: 7px 15px;
+  background-color: #11999E;
+  color: white;
+  text-decoration: none;
+  border-radius: 7px;
+}
+
+.button-class:hover{
+  background-color: #66BFBF;
+}
+
+
+.bottom-section{
+  background-color: #66BFBF;
+  padding-top: 30px;
+}
+
+.bottom-section p{
+  color: #EAF6F6;
+  padding-bottom: 30px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+.footer-link{
+  padding: 0px 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
